@@ -18,7 +18,7 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.8.1",
     "refine-pocketbase": "file:../lib",
-    "uuid": "^11.0.2"
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.48.2",
